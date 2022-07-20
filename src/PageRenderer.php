@@ -4,7 +4,6 @@
 namespace Parser;
 
 use Exception;
-use Parser\PageRenderer\TemplateNotFoundException;
 
 
 class PageRenderer implements PageRendererInterface

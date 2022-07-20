@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Parser\PageRenderer;
+namespace Parser;
 
 use Exception;
 
